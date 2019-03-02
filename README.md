@@ -1,4 +1,4 @@
-# HW2# tei-example
+# HW2
 
 4. 
 <text>
